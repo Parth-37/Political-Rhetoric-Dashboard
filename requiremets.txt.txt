@@ -8,3 +8,4 @@ wordcloud
 gensim
 scikit-learn
 pyLDAvis
+matplotlib
